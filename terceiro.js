@@ -1,6 +1,8 @@
+//variáveis
 let primeiro = 'k';
 let segundo = 9;
 
+//quando o primeiro for igual o segundo, aparecera essa mensagem
 if(primeiro === segundo){
     console.log("Os números são iguais!");
 } else if (primeiro > segundo){;
@@ -10,3 +12,4 @@ if(primeiro === segundo){
 } else {
     console.log("Não é possivel comparar!");
 }
+//quando for uma letra ou um número
