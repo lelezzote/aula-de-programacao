@@ -1,4 +1,4 @@
-function verificaNumero(numero1, numero2){
+function verificaNumero(numero1, numero2){ //funçao
     if(numero1 == 0 || numero2 == 0){
         throw new Error("Apenas números maiores do que 0!")
     }
